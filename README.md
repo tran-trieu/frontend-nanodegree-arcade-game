@@ -15,6 +15,8 @@
   - to download, click "download"
   - to clone, use ```$ git clone https://github.com/tran-trieu/frontend-nanodegree-arcade-game-clone.git```
   To run the game, open index.html in your browser.
+  
+  Run the game on [here](https://rawgit.com/tran-trieu/frontend-nanodegree-arcade-game/master/index.html)
 
 ## How to Play
   To play, use the arrow keys to navigate the
